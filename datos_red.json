@@ -1,0 +1,45 @@
+{
+    "estadoEncendida": true,
+    "usuarios": [
+        {
+            "id": "ADM01",
+            "nombre": "Erik Pérez",
+            "rol": "Administrador"
+        },
+        {
+            "id": "USR01",
+            "nombre": "Juan Manuel",
+            "rol": "Usuario"
+        },
+        {
+            "id": "USR02",
+            "nombre": "Ana López",
+            "rol": "Usuario"
+        },
+        {
+            "id": "USR03",
+            "nombre": "Ana Marquez",
+            "rol": "Usuario"
+        }
+    ],
+    "dispositivos": [],
+    "paginas": [
+        {
+            "url": "https://intranet.empresa.com",
+            "admitida": true
+        },
+        {
+            "url": "https://correo.empresa.com",
+            "admitida": true
+        },
+        {
+            "url": "https://youtube.com",
+            "admitida": false
+        },
+        {
+            "url": "https://netflix.com",
+            "admitida": false
+        }
+    ],
+    "registros": []
+}
